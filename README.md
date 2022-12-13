@@ -1,2 +1,5 @@
 # Pokedex
-This program will replicate a game of Go Fish with a computer
+
+This program features a pokedex from the game Pokemon.
+
+With this program you can track all of your pokemons stats and moves.
